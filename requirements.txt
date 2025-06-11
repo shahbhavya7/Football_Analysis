@@ -1,0 +1,7 @@
+Python
+ultralytics
+supervision
+OpenCV
+NumPy
+Matplotlib
+Pandas
